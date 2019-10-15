@@ -1,0 +1,25 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "api creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonik25/node-Express.git"
+  },
+  "author": "Sonal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonik25/node-Express/issues"
+  },
+  "homepage": "https://github.com/sonik25/node-Express#readme",
+  "dependencies": {
+    "@hapi/joi": "^16.1.7",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.4"
+  }
+}
